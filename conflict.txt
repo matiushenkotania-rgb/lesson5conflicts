@@ -1,4 +1,6 @@
 1) File 1
 2) File 2
+3) File 3
 3) conflict line 3 main
+
 
